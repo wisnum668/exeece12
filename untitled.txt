@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Toko Saya</title>
+</head>
+<body>
+    <header>
+        <h1>Toko Saya</h1>
+    </header>
+    <main>
+        <!-- Tambahkan daftar produk di sini -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Toko Saya</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
